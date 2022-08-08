@@ -1,0 +1,1 @@
+class SelectAnalys1ItemModel {}
